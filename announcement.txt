@@ -1,34 +1,26 @@
-Halo semuanya! Biar kalian makin jago dan gak bingung lagi di game Werewolf, ini dia daftar lengkap semua command yang bisa kalian pakai untuk setiap peran.
-Penting diingat: Banyak command ini dikirim via DM pribadi ke bot atau di thread khusus Werewolf (kalau peran kalian Werewolf / Mata-Mata Werewolf).
-🌙 Command Peran Malam Hari (Aksi Rahasia!)
-Tim Werewolf:
- * 🐺 Werewolf Biasa & 👑 Alpha Werewolf:
-   * Jika ada lebih dari 1 Werewolf hidup: Pilih target pembunuhan dengan mereaksi angka (1️⃣, 2️⃣, 3️⃣, dst.) pada pesan bot di thread Werewolf. Suara Alpha Werewolf jadi prioritas.
-   * Jika hanya ada 1 Werewolf hidup: Kirim !bunuh <nomor_warga> langsung di thread Werewolf (atau DM bot kalau thread gagal dibuat).
- * 🤫 Mata-Mata Werewolf:
-   * Kirim !intai <nomor_warga> di thread Werewolf (atau DM bot jika thread gagal dibuat) untuk tahu peran target.
-Tim Desa (Command via DM Pribadi ke Bot):
- * ⚕️ Dokter:
-   * Untuk melindungi satu orang dari serangan Werewolf: !lindungi <nomor_warga>
- * 🔮 Peramal:
-   * Untuk mengetahui peran seseorang (Werewolf atau bukan): !cek <nomor_warga>
- * 🛡️ Pengawal:
-   * Untuk melindungi satu orang dari hukuman gantung di siang hari: !jaga <nomor_warga>
- * 🏹 Pemburu:
-   * (Command ini hanya muncul kalau kamu mati!) Jika kamu mati, balas dendam dengan menembak target: !tembak <nomor_warga>
- * 🧙‍♀️ Penyihir:
-   * Punya ramuan racun (1x): !racun <nomor_warga>
-   * Punya ramuan penawar (1x, untuk hidupkan korban Werewolf malam itu): !penawar <nomor_warga>
- * 👮 Penjaga Malam:
-   * Untuk melindungi satu orang dari semua aksi peran lain: !jagamalam <nomor_warga>
- * ⚔️ Ksatria Suci:
-   * Untuk melindungi satu pemain dari serangan Werewolf (hati-hati, bisa mati kalau lindungi Werewolf): !perisai <nomor_warga>
-☀️ Command Siang Hari (Untuk Semua Pemain Hidup)
- * 🧑‍🌾 Semua Peran (di Channel Utama):
-   * Untuk memberi suara menggantung seseorang: !vote <nomor_warga>
-🛠️ Command Khusus Host/Admin (di Channel Utama)
- * !ww set: Atur jumlah peran default game Werewolf.
- * !ww mulai: Mulai game Werewolf.
- * !ww batal: Batalkan game Werewolf.
- * !stopwerewolfaudio: Hentikan audio Werewolf yang sedang diputar.
-Semoga daftar ini bikin main Werewolf makin lancar! Selamat bermain!
+📢 **UPDATE BESAR SOAL KUIS!**
+
+Hai sobat kuis! ✨
+
+Kami punya kabar seru: **semua soal kuis telah diperbarui dan diperluas!**  
+Sekarang kamu bisa nikmati soal-soal baru yang lebih seru, bervariasi, dan menantang! 🎯
+
+🎮 **Yang Baru:**
+
+🔤 **KUIS RESACAK (Tebak Kata)**  
+• Lebih dari 500 soal baru  
+• Topik: Hewan, Profesi, Benda, Buah, Sayuran, Monumen indonesia & dunia, Psikologi, Phobia, Kendaraan, olahraga dan banyak lagi  
+• Kisi-kisi tidak terlalu gamblang, cocok buat kamu yang suka mikir kreatif
+• cara main !resacak
+
+🧪 **KUIS IPA (Kimia & Biologi Dasar)**  
+• 200 soal baru dari level **mudah hingga menengah**  
+• Dilengkapi kisi-kisi edukatif, ideal untuk pelajar dan penggemar sains
+• Cara main !resipa
+
+📚 Yuk asah pengetahuanmu dan rebut posisi puncak di leaderboard!  
+Tag teman kamu dan buktiin siapa yang paling jago kuisnya! 💪
+
+🧠 *Update akan terus berlanjut, jadi stay tuned yaa!*
+
+— *Tim Bot Kuis*
