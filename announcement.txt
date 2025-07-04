@@ -1,58 +1,34 @@
----
-# **Update Bot: Werewolf (Beta) Dirilis!** 🌙🐺
-
-Halo semuanya! Ada kabar gembira nih. Setelah kerja keras, beberapa **bug di bot berhasil dibasmi**, dan sekarang kami siap meluncurkan fitur terbaru yang pasti bikin server makin seru:
-
----
-## 🐺 **Game Werewolf (Beta) Telah Tiba!** 🐺
-Ini masih versi beta, jadi mohon maklum kalau ada sedikit gangguan.
-
-### **Cara Main Singkat:**
-
-**1. Persiapan:**
-* **Masuk Voice Channel**: Wajib ya, karena bot akan memutar audio game biar agak serem.
-* **Buka DM Bot**: Peran dan instruksi rahasia akan dikirim via DM.
-* **Minimal 3 Pemain**: Agar game bisa dimulai.
-
-**2. Memulai Game:**
-* Ketik `!ww` atau `!ww join` di channel teks tempat kamu mau main.
-* Setelah pemain cukup, **host** bisa ketik `!ww mulai`.
-
-**3. Jalannya Game (Singkat):**
-
-* 🌙 **Malam Hari:**
-    * Penduduk tidur, peran khusus beraksi.
-    * **Werewolf (termasuk Alpha) & Mata-Mata Werewolf**:
-        * Kalian akan masuk **thread privat khusus Werewolf** di channel utama.
-        * Bot akan kirim daftar pemain hidup.
-        * **Jika lebih dari 1 Werewolf**: Pilih target pembunuhan dengan **reaksi angka** (1️⃣, 2️⃣, dst.) di pesan bot pada thread. Suara Alpha Werewolf akan jadi prioritas.
-        * **Jika hanya 1 Werewolf**: Kirim `!bunuh <nomor_warga>` langsung di thread (atau DM bot jika thread gagal).
-        * **Mata-Mata Werewolf**: Kirim `!intai <nomor_warga>` di thread (atau DM bot jika thread gagal).
-    * **Peran Desa Lain (Dokter, Peramal, Penyihir, dll.)**: Aksi dilakukan via **DM pribadi dengan bot** (contoh: `!lindungi <nomor_warga>`).
-
-* ☀️ **Pagi Hari:**
-    * Pengumuman korban.
-    * Fase **Diskusi & Voting**: Cari Werewolf, lalu gantung pakai `!vote <nomor_warga>` di channel utama.
-
----
-### **Peran Penting & Fungsinya (singkat):**
-
-* 🐺 **Werewolf**: Membunuh warga.
-* 👑 **Alpha Werewolf**: Pemimpin Werewolf, suaranya diutamakan.
-* 🤫 **Mata-Mata Werewolf**: Mengintai peran lawan.
-* ⚕️ **Dokter**: Melindungi dari pembunuhan Werewolf.
-* 🔮 **Peramal**: Mengecek peran seseorang (Werewolf atau bukan).
-* 🛡️ **Pengawal**: Melindungi dari hukuman gantung.
-* 🏹 **Pemburu**: Jika mati, bisa membalas dendam dengan menembak target.
-* 🧙‍♀️ **Penyihir**: Punya ramuan racun (bunuh) dan penawar (hidupkan korban Werewolf).
-* 👮 **Penjaga Malam**: Melindungi dari semua aksi malam.
-* ⚔️ **Ksatria Suci**: Melindungi dari Werewolf, tapi bisa mati jika melindungi Werewolf.
-* 🧑‍🌾 **Warga Polos**: Penduduk biasa, mencari dan menggantung Werewolf.
-
----
-### **Pembaruan Lainnya:**
-* Kami juga sudah perbaiki display GIF biar nggak salah-salah lagi.
-* Beberapa *internal logic* sudah dioptimalkan biar botnya nggak gampang *crash*.
-
-Dengan pembaruan ini, kami harap pengalaman bermain kalian jadi lebih asyik. Selamat bermain!
----
+Halo semuanya! Biar kalian makin jago dan gak bingung lagi di game Werewolf, ini dia daftar lengkap semua command yang bisa kalian pakai untuk setiap peran.
+Penting diingat: Banyak command ini dikirim via DM pribadi ke bot atau di thread khusus Werewolf (kalau peran kalian Werewolf / Mata-Mata Werewolf).
+🌙 Command Peran Malam Hari (Aksi Rahasia!)
+Tim Werewolf:
+ * 🐺 Werewolf Biasa & 👑 Alpha Werewolf:
+   * Jika ada lebih dari 1 Werewolf hidup: Pilih target pembunuhan dengan mereaksi angka (1️⃣, 2️⃣, 3️⃣, dst.) pada pesan bot di thread Werewolf. Suara Alpha Werewolf jadi prioritas.
+   * Jika hanya ada 1 Werewolf hidup: Kirim !bunuh <nomor_warga> langsung di thread Werewolf (atau DM bot kalau thread gagal dibuat).
+ * 🤫 Mata-Mata Werewolf:
+   * Kirim !intai <nomor_warga> di thread Werewolf (atau DM bot jika thread gagal dibuat) untuk tahu peran target.
+Tim Desa (Command via DM Pribadi ke Bot):
+ * ⚕️ Dokter:
+   * Untuk melindungi satu orang dari serangan Werewolf: !lindungi <nomor_warga>
+ * 🔮 Peramal:
+   * Untuk mengetahui peran seseorang (Werewolf atau bukan): !cek <nomor_warga>
+ * 🛡️ Pengawal:
+   * Untuk melindungi satu orang dari hukuman gantung di siang hari: !jaga <nomor_warga>
+ * 🏹 Pemburu:
+   * (Command ini hanya muncul kalau kamu mati!) Jika kamu mati, balas dendam dengan menembak target: !tembak <nomor_warga>
+ * 🧙‍♀️ Penyihir:
+   * Punya ramuan racun (1x): !racun <nomor_warga>
+   * Punya ramuan penawar (1x, untuk hidupkan korban Werewolf malam itu): !penawar <nomor_warga>
+ * 👮 Penjaga Malam:
+   * Untuk melindungi satu orang dari semua aksi peran lain: !jagamalam <nomor_warga>
+ * ⚔️ Ksatria Suci:
+   * Untuk melindungi satu pemain dari serangan Werewolf (hati-hati, bisa mati kalau lindungi Werewolf): !perisai <nomor_warga>
+☀️ Command Siang Hari (Untuk Semua Pemain Hidup)
+ * 🧑‍🌾 Semua Peran (di Channel Utama):
+   * Untuk memberi suara menggantung seseorang: !vote <nomor_warga>
+🛠️ Command Khusus Host/Admin (di Channel Utama)
+ * !ww set: Atur jumlah peran default game Werewolf.
+ * !ww mulai: Mulai game Werewolf.
+ * !ww batal: Batalkan game Werewolf.
+ * !stopwerewolfaudio: Hentikan audio Werewolf yang sedang diputar.
+Semoga daftar ini bikin main Werewolf makin lancar! Selamat bermain!
