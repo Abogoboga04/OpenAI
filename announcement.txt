@@ -1,1 +1,136 @@
-reees
+---
+# **Pengumuman Pahlawan Kesepian (Revisi Fitur & Werewolf Beta)** 🌙🐺
+
+Halo para pejuang malam yang mungkin sedang memendam rasa, atau hanya sekadar rebahan sambil mikirin masa depan yang abu-abu! Admin si paling kesepian ini hadir dengan kabar baik (semoga seceria *matchmaking* kalian di game).
+
+Beberapa hari ini, hati ini terasa hampa melihat bug-bug gentayangan di bot kita. Tapi, seperti cinta yang kadang harus diperjuangkan, bug pun akhirnya harus kuhadapi. Dan, setelah melewati malam-malam panjang penuh derita (dan kopi sachet), akhirnya **beberapa bug berhasil aku bungkam!** ✨
+
+* *Jokes receh: Kenapa sih ikan selalu sendirian? Karena dia takut sama social fish-tancing.*
+
+Nah, biar suasana makin seru (biar kalian nggak cuma *scroll-scroll* galeri mantan), aku tambahin sesuatu yang baru, nih:
+
+---
+## 🐺 **Game Werewolf (Beta) Telah Tiba!** 🐺
+Ini masih versi beta, jadi kalau ada yang *glitch* atau tiba-tiba botnya curhat, harap dimaklumi ya. Mungkin dia lagi *healing* dari bug-bug kemarin.
+
+### **Bagaimana Cara Mainnya, Min?**
+Tenang, tak perlu galau. Mari kita bedah satu per satu, biar nggak ada yang nyasar kayak perasaan kalian:
+
+**1. Persiapan Diri (dan Koneksi Internet):**
+* **Masuk Voice Channel**: Pastikan kalian semua (dan host-nya) sudah *join* ke **voice channel** yang sama. Karena bot kita sekarang punya *skill* nyanyi-nyanyi, biar makin meresapi suasana *sad* atau *hype*-nya game.
+* **Buka DM Bot**: Pastikan kalian sudah mengizinkan bot untuk mengirim DM. Ini penting banget, karena peran kalian akan dikirim via DM, dan beberapa aksi rahasia juga lewat DM! Kalau DM-nya ketutup, nanti botnya baper.
+* **Min. Pemain**: Minimal **3 pemain** untuk memulai game. Kalau cuma berdua, itu bukan Werewolf, tapi janjian mau *double date* (yang pasti nggak akan terjadi).
+
+**2. Memulai Antrean & Game:**
+* Ketik `!ww` atau `!ww join` di channel teks tempat kalian mau main. Ini semacam *open relationship*, tapi sama antrean Werewolf.
+* Kalau sudah banyak yang *join* (minimal 3 orang, kalau kata Bang Napi: *cukup*), host bisa ketik `!ww mulai` untuk memulai game. Setelah ini, *mood* kalian akan berubah menjadi serius, sedalam samudra Hindia.
+
+**3. Mengenali Peran Lewat DM:**
+* Setelah game dimulai, bot akan DM kalian satu per satu untuk memberitahu peran. Baca baik-baik ya, jangan sampai salah kira, nanti malah bunuh diri.
+
+**4. Fase Game:**
+Game akan bergulir antara:
+* 🌙 **Malam Hari:**
+    * Semua penduduk desa tidur.
+    * Para peran khusus (Werewolf, Dokter, Peramal, dll.) akan menerima instruksi untuk beraksi via **DM pribadi dengan bot** atau **thread khusus Werewolf** (jika kalian Werewolf).
+    * Di sinilah intinya! Para Werewolf akan berdiskusi dan memilih siapa yang akan jadi korban. Mata-Mata Werewolf juga beraksi di sini.
+
+* ☀️ **Pagi Hari:**
+    * Waktunya pengumuman duka! Bot akan memberitahu siapa yang jadi korban semalam (kalau ada). Siap-siap baper, siapa tahu itu *crush* kalian.
+    * Kemudian, masuk ke **Fase Diskusi & Voting**. Kalian harus berdiskusi sengit untuk mencari siapa Werewolf yang bergentayangan. Gunakan kata-kata bijak, atau kalau mentok, pakai saja kata-kata receh.
+
+---
+### **Daftar Peran Penting & Fungsinya (biar nggak bingung):**
+
+Setiap peran punya *skill* dan tujuan sendiri. Kenali mereka, seperti kalian mengenali diri sendiri di cermin yang berdebu:
+
+* 🐺 **Werewolf**:
+    * **Tim**: Werewolf
+    * **Tugas Malam**: Membunuh warga.
+    * **Aksi**:
+        * Jika ada **lebih dari 1 Werewolf yang hidup**: Bot akan mengirim **pesan voting di thread khusus Werewolf**. Kalian cukup **bereaksi angka (1️⃣, 2️⃣, dst.)** pada pesan tersebut untuk memilih target. Mayoritas suara akan jadi keputusan.
+        * Jika hanya ada **1 Werewolf yang hidup**: Kirim perintah `!bunuh <nomor_warga>` langsung di thread Werewolf (atau DM bot jika thread gagal dibuat).
+    * **Goal**: Musnahkan semua penduduk desa sampai jumlah kalian sama atau lebih banyak.
+
+* 👑 **Alpha Werewolf**:
+    * **Tim**: Werewolf
+    * **Tugas Malam**: Sama seperti Werewolf biasa, tapi dia **bosnya**.
+    * **Aksi**: Jika ada Alpha Werewolf yang hidup, **suara dia adalah yang paling didengar** dalam voting pembunuhan Werewolf (prioritas utama). Werewolf lain boleh bereaksi, tapi keputusan akhir ada di tangan Alpha.
+    * **Goal**: Pimpin Werewolf untuk memusnahkan semua penduduk desa.
+
+* 🤫 **Mata-Mata Werewolf**:
+    * **Tim**: Werewolf
+    * **Tugas Malam**: Mengintai peran orang.
+    * **Aksi**: Kirim `!intai <nomor_warga>` di thread Werewolf (atau DM bot jika thread gagal dibuat) untuk mengetahui peran target.
+    * **Goal**: Dapatkan informasi penting untuk tim Werewolf.
+
+* ⚕️ **Dokter**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Melindungi satu pemain dari pembunuhan Werewolf.
+    * **Aksi**: DM bot `!lindungi <nomor_warga>`.
+    * **Goal**: Lindungi warga dan singkirkan Werewolf.
+
+* 🔮 **Peramal**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Memeriksa peran satu pemain.
+    * **Aksi**: DM bot `!cek <nomor_warga>`. Bot akan memberitahu apakah target adalah Werewolf atau bukan.
+    * **Goal**: Temukan Werewolf dan bantu warga menggantung mereka.
+
+* 🛡️ **Pengawal**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Melindungi satu pemain dari hukuman gantung di siang hari.
+    * **Aksi**: DM bot `!jaga <nomor_warga>`.
+    * **Goal**: Lindungi warga dari keputusan gantung yang salah.
+
+* 🏹 **Pemburu**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Tidak ada aksi langsung, tapi kalau dia mati...
+    * **Aksi**: Jika Pemburu mati (dibunuh Werewolf atau digantung), dia bisa memilih satu pemain untuk ditembak mati sebagai balas dendam.
+    * **Goal**: Bantu warga menemukan Werewolf, dan bawa satu Werewolf bersamamu jika kamu mati.
+
+* 🧙‍♀️ **Penyihir**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Menggunakan ramuan.
+    * **Aksi**: Punya 1 ramuan racun (`!racun <nomor_warga>`) untuk membunuh siapa saja, dan 1 ramuan penawar (`!penawar <nomor_warga>`) untuk menghidupkan kembali korban Werewolf malam itu. Gunakan DM bot.
+    * **Goal**: Gunakan ramuanmu dengan bijak untuk membantu warga menang.
+
+* 👮 **Penjaga Malam**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Melindungi satu orang dari SEMUA aksi peran lain (termasuk Werewolf dan Penyihir).
+    * **Aksi**: DM bot `!jagamalam <nomor_warga>`.
+    * **Goal**: Jaga keamanan desa di malam hari.
+
+* ⚔️ **Ksatria Suci**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Melindungi satu pemain dari serangan Werewolf.
+    * **Aksi**: DM bot `!perisai <nomor_warga>`. Tapi hati-hati, jika kamu melindungi Werewolf, kamu akan ikut mati bersamanya.
+    * **Goal**: Lindungi warga dari Werewolf, bahkan dengan risiko nyawamu.
+
+* 🧑‍🌾 **Warga Polos**:
+    * **Tim**: Warga
+    * **Tugas Malam**: Tidur.
+    * **Aksi**: Tidak ada aksi malam.
+    * **Goal**: Temukan Werewolf dan gantung mereka di siang hari.
+
+---
+### ⚠️ **Pemberitahuan Penting: Fitur Audio!** ⚠️
+Bot kita sekarang sudah bisa nyetel musik latar (biar makin mendalami suasana *dark* atau *bright*). Kalau ada masalah audio, itu biasanya karena link audio di GitHub kurang bersahabat. Aku sudah coba ganti ke link Google Drive yang lebih stabil (tapi **kalian perlu ganti sendiri linknya di file JSON global_werewolf_config.json dengan link MP3 kalian sendiri** yang sudah di-set *public*).
+
+Kalau masih *error*, mungkin FFmpeg di server bot kalian lagi *bad mood* atau belum terinstal. Coba sabar dulu, namanya juga hidup.
+
+* *Jokes receh 2: Kenapa bot selalu jadi admin? Karena dia punya banyak connection.*
+
+---
+### **Pembaruan Lainnya:**
+* Aku juga sudah perbaiki display GIF biar nggak salah-salah lagi. Kan nggak lucu kalau harusnya momen pagi, malah muncul GIF serem.
+* Beberapa *internal logic* sudah dioptimalkan biar botnya nggak gampang *crash* kayak hati ini.
+
+---
+# **Fitur Pengumuman Pembaruan Pakai Bot Pribadi**
+Sekarang, kalian bisa pakai bot ini untuk *announce* pembaruan atau sekadar curhat, tapi lewat bot. Caranya simpel:
+* Ketik perintah rahasia `!announce` (hanya untuk yang punya akses ya).
+* Ikuti instruksi bot. Ini bisa dipakai buat ngasih tahu kalau ada fitur baru, event, atau bahkan kalau kalian lagi *bad mood* parah.
+
+Itu dia pengumuman dari admin kesayangan kalian. Kalau ada bug, jangan sungkan laporan. Kalau ada *crush* tapi nggak berani ngomong, itu urusan kalian. Selamat bermain, para pejuang! Jangan sampai bot ini jadi saksi bisu kegalauan kalian ya. 👋
+
+---
