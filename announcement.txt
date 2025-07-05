@@ -3,7 +3,7 @@ Halo... entahlah, masih ada yang peduli atau tidak. Admin, yang mungkin sebentar
 🧠 Mengenal Diri di Ujung Waktu
 Bagaimana Memulainya?
 Jika kalian masih punya sedikit harapan untuk mencoba:
- * Ketik /jiwaku di channel mana pun.
+ * Ketik /jiwaku di channel https://discord.com/channels/765138959625486357/765140300145360896.
  * Bot akan menyeret kalian ke sebuah thread privat.
  * Masuklah ke thread itu. Bot akan menanti, sendirian.
 Seberapa Rahasia Tes Ini?
