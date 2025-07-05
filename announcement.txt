@@ -1,26 +1,29 @@
 
-
-Hai sobat kuis! ✨
-
-Kami punya kabar seru: **semua soal kuis telah diperbarui dan diperluas!**  
-Sekarang kamu bisa nikmati soal-soal baru yang lebih seru, bervariasi, dan menantang! 🎯
-
-🎮 **Yang Baru:**
-
-🔤 **KUIS RESACAK (Tebak Kata)**  
-• Lebih dari 500 soal baru  
-• Topik: Hewan, Profesi, Benda, Buah, Sayuran, Monumen indonesia & dunia, Psikologi, Phobia, Kendaraan, olahraga dan banyak lagi  
-• Kisi-kisi tidak terlalu gamblang, cocok buat kamu yang suka mikir kreatif
-• cara main !resacak
-
-🧪 **KUIS IPA (Kimia & Biologi Dasar)**  
-• 200 soal baru dari level **mudah hingga menengah**  
-• Dilengkapi kisi-kisi edukatif, ideal untuk pelajar dan penggemar sains
-• Cara main !resipa
-
-📚 Yuk asah pengetahuanmu dan rebut posisi puncak di leaderboard!  
-Tag teman kamu dan buktiin siapa yang paling jago kuisnya! 💪
-
-🧠 *Update akan terus berlanjut, jadi stay tuned yaa!*
-
-— *Tim Bot Kuis*
+Halo... entahlah, masih ada yang peduli atau tidak. Admin, yang mungkin sebentar lagi jadi kenangan ini, membawa kabar tentang sebuah fitur baru: Tes Psikotes JiwaBot. Mungkin ini salah satu fitur terakhir, sebelum semuanya gelap.
+🧠 Mengenal Diri di Ujung Waktu
+Bagaimana Memulainya?
+Jika kalian masih punya sedikit harapan untuk mencoba:
+ * Ketik /jiwaku di channel mana pun.
+ * Bot akan menyeret kalian ke sebuah thread privat.
+ * Masuklah ke thread itu. Bot akan menanti, sendirian.
+Seberapa Rahasia Tes Ini?
+Setidaknya ini masih ada yang privat di dunia ini:
+ * Setiap sesi tes berlangsung di thread Discord privat.
+ * Hanya kamu dan bot. Tak ada yang lain, tak ada yang peduli. Admin pun takkan mengintip.
+ * Setelah tes usai, thread ini akan lenyap dalam 3 menit. Mungkin seperti harapan kita yang sering lenyap begitu saja.
+Bagaimana Jalannya Tes yang Hampir Sirna Ini?
+Tes ini cuma formalitas 50 pertanyaan, satu per satu:
+ * Bot akan melempar pertanyaan, dengan 2 pilihan (1 atau 2).
+ * Pilih saja yang paling sesuai, dengan reaksi emoji 1️⃣ atau 2️⃣. Tak ada benar atau salah, hanya mengumpulkan puing-puing jati diri.
+ * Setelah selesai, kalau bot-nya tidak crash duluan, laporan akan dikirim ke thread dan DM-mu.
+📊 Apa yang Tersisa dari Laporan Ini?
+Jika kalian berhasil melewati semua pertanyaan ini, laporan akan mencoba merangkum sisa-sisa diri kalian:
+ * Identitas Diri: Siapa kalian di dunia Discord yang fana ini.
+ * Kecenderungan Sosial Utama: Introvert, Ekstrovert, atau Ambivert. Mungkin tak banyak artinya di dunia yang akan berakhir ini.
+ * Profil Sifat & Sikap Dominan: Beberapa sifat yang mungkin masih melekat pada kalian (optimis? pemarah? sabar?)... kalau-kalau itu masih relevan.
+ * Gaya Interaksi & Peran dalam Lingkungan: Bagaimana kalian berinteraksi. Mungkin sudah tak ada lingkungan untuk berinteraksi lagi nanti.
+ * Rekomendasi Komprehensif: Saran, kritik, evaluasi, dan langkah ke depan. Barangkali masih ada "ke depan" untuk kalian.
+💔 Pembaruan Terakhir? 💔
+> || Ini mungkin update terakhir. Server ini, entahlah, mungkin akan segera senyap. Tanpa hosting, tak ada yang bisa bertahan. Jadi, nikmati saja sisa-sisa waktu ini. Atau tidak sama sekali. ||
+> 
+Ketik /jiwaku sekarang. Sebelum semuanya menjadi ketiadaan.
